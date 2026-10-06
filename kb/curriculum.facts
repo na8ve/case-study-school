@@ -1,0 +1,169 @@
+# Synthetic school knowledge (curriculum.facts).
+Mathematics | is_a | Subject | Mathematics is a subject of the course.
+Physical science | is_a | Subject | Physical science is a subject of the course.
+Place value | is_a | Mathematics | Place value is a mathematics concept taught in grade 4.
+Place value | aligned_to | 4.NBT.A.1 | Place value is aligned to 4.NBT.A.1: see that a digit is worth ten times the same digit one place to its right.
+L-100 Place value: ones, tens and hundreds | teaches | Place value | Lesson L-100, "Place value: ones, tens and hundreds", teaches place value: 8 minutes, an interactive practice that needs no audio, reading level grade 3, a STEM lesson.
+L-101 Place value: building big numbers | teaches | Place value | Lesson L-101, "Place value: building big numbers", teaches place value: 13 minutes, a reading that needs no audio, reading level grade 3, a STEM lesson.
+F-200 Place value flashcards | aligned_to | Place value | Flashcard deck F-200, "Place value flashcards", has 10 cards on place value and needs no audio.
+Multiplication facts | is_a | Mathematics | Multiplication facts is a mathematics concept taught in grade 4.
+Multiplication facts | aligned_to | 3.OA.C.7 | Multiplication facts is aligned to 3.OA.C.7: fluently multiply and divide within one hundred.
+Place value | prerequisite_of | Multiplication facts | Place value is a prerequisite of multiplication facts: the curriculum places it first.
+L-110 Multiplication facts: the arrays | teaches | Multiplication facts | Lesson L-110, "Multiplication facts: the arrays", teaches multiplication facts: 11 minutes, a reading that needs no audio, reading level grade 3, a STEM lesson.
+L-111 Multiplication facts: patterns in the table | teaches | Multiplication facts | Lesson L-111, "Multiplication facts: patterns in the table", teaches multiplication facts: 16 minutes, a video that requires audio, reading level grade 3, a STEM lesson.
+F-201 Multiplication facts flashcards | aligned_to | Multiplication facts | Flashcard deck F-201, "Multiplication facts flashcards", has 12 cards on multiplication facts and needs no audio.
+Division as sharing | is_a | Mathematics | Division as sharing is a mathematics concept taught in grade 5.
+Division as sharing | aligned_to | 3.OA.A.2 | Division as sharing is aligned to 3.OA.A.2: interpret a quotient as the size of equal shares or the number of shares.
+Multiplication facts | prerequisite_of | Division as sharing | Multiplication facts is a prerequisite of division as sharing: the curriculum places it first.
+L-120 Sharing evenly: division as equal groups | teaches | Division as sharing | Lesson L-120, "Sharing evenly: division as equal groups", teaches division as sharing: 14 minutes, a video that requires audio, reading level grade 4, a STEM lesson.
+L-121 Division as the missing factor | teaches | Division as sharing | Lesson L-121, "Division as the missing factor", teaches division as sharing: 10 minutes, an interactive practice that needs no audio, reading level grade 4, a STEM lesson.
+F-202 Division as sharing flashcards | aligned_to | Division as sharing | Flashcard deck F-202, "Division as sharing flashcards", has 14 cards on division as sharing and needs no audio.
+Fractions as parts | is_a | Mathematics | Fractions as parts is a mathematics concept taught in grade 5.
+Fractions as parts | aligned_to | 3.NF.A.1 | Fractions as parts is aligned to 3.NF.A.1: see a unit fraction as one part of a whole cut into equal parts.
+Division as sharing | prerequisite_of | Fractions as parts | Division as sharing is a prerequisite of fractions as parts: the curriculum places it first.
+L-130 Sharing a pizza: fractions as parts of one whole | teaches | Fractions as parts | Lesson L-130, "Sharing a pizza: fractions as parts of one whole", teaches fractions as parts: 8 minutes, an interactive practice that needs no audio, reading level grade 4, a STEM lesson.
+L-131 Fractions on a number line | teaches | Fractions as parts | Lesson L-131, "Fractions on a number line", teaches fractions as parts: 13 minutes, a reading that needs no audio, reading level grade 4, a STEM lesson.
+F-203 Fractions as parts flashcards | aligned_to | Fractions as parts | Flashcard deck F-203, "Fractions as parts flashcards", has 16 cards on fractions as parts and needs no audio.
+Equivalent fractions | is_a | Mathematics | Equivalent fractions is a mathematics concept taught in grade 5.
+Equivalent fractions | aligned_to | 4.NF.A.1 | Equivalent fractions is aligned to 4.NF.A.1: explain why fractions are equivalent and generate equivalent fractions.
+Fractions as parts | prerequisite_of | Equivalent fractions | Fractions as parts is a prerequisite of equivalent fractions: the curriculum places it first.
+Multiplication facts | prerequisite_of | Equivalent fractions | Multiplication facts is a prerequisite of equivalent fractions: the curriculum places it first.
+L-140 Same amount, different names: equivalent fractions | teaches | Equivalent fractions | Lesson L-140, "Same amount, different names: equivalent fractions", teaches equivalent fractions: 11 minutes, a reading that needs no audio, reading level grade 4, a STEM lesson.
+L-141 Scaling a fraction up and down | teaches | Equivalent fractions | Lesson L-141, "Scaling a fraction up and down", teaches equivalent fractions: 16 minutes, a video that requires audio, reading level grade 4, a STEM lesson.
+F-204 Equivalent fractions flashcards | aligned_to | Equivalent fractions | Flashcard deck F-204, "Equivalent fractions flashcards", has 18 cards on equivalent fractions and needs no audio.
+Comparing fractions | is_a | Mathematics | Comparing fractions is a mathematics concept taught in grade 5.
+Comparing fractions | aligned_to | 4.NF.A.2 | Comparing fractions is aligned to 4.NF.A.2: compare fractions that have different numerators and denominators.
+Equivalent fractions | prerequisite_of | Comparing fractions | Equivalent fractions is a prerequisite of comparing fractions: the curriculum places it first.
+L-150 Which is bigger? Comparing fractions | teaches | Comparing fractions | Lesson L-150, "Which is bigger? Comparing fractions", teaches comparing fractions: 14 minutes, a video that requires audio, reading level grade 4, a STEM lesson.
+L-151 Benchmarks: halves and wholes | teaches | Comparing fractions | Lesson L-151, "Benchmarks: halves and wholes", teaches comparing fractions: 10 minutes, an interactive practice that needs no audio, reading level grade 4, a STEM lesson.
+F-205 Comparing fractions flashcards | aligned_to | Comparing fractions | Flashcard deck F-205, "Comparing fractions flashcards", has 10 cards on comparing fractions and needs no audio.
+Adding fractions | is_a | Mathematics | Adding fractions is a mathematics concept taught in grade 5.
+Adding fractions | aligned_to | 5.NF.A.1 | Adding fractions is aligned to 5.NF.A.1: add and subtract fractions with unlike denominators.
+Equivalent fractions | prerequisite_of | Adding fractions | Equivalent fractions is a prerequisite of adding fractions: the curriculum places it first.
+L-160 Adding fractions with a common denominator | teaches | Adding fractions | Lesson L-160, "Adding fractions with a common denominator", teaches adding fractions: 8 minutes, an interactive practice that needs no audio, reading level grade 4, a STEM lesson.
+L-161 Adding fractions with unlike denominators | teaches | Adding fractions | Lesson L-161, "Adding fractions with unlike denominators", teaches adding fractions: 13 minutes, a reading that needs no audio, reading level grade 4, a STEM lesson.
+F-206 Adding fractions flashcards | aligned_to | Adding fractions | Flashcard deck F-206, "Adding fractions flashcards", has 12 cards on adding fractions and needs no audio.
+Multiplying fractions | is_a | Mathematics | Multiplying fractions is a mathematics concept taught in grade 6.
+Multiplying fractions | aligned_to | 5.NF.B.4 | Multiplying fractions is aligned to 5.NF.B.4: multiply a fraction by a fraction or a whole number.
+Fractions as parts | prerequisite_of | Multiplying fractions | Fractions as parts is a prerequisite of multiplying fractions: the curriculum places it first.
+Multiplication facts | prerequisite_of | Multiplying fractions | Multiplication facts is a prerequisite of multiplying fractions: the curriculum places it first.
+L-170 A fraction of a fraction: multiplying with area models | teaches | Multiplying fractions | Lesson L-170, "A fraction of a fraction: multiplying with area models", teaches multiplying fractions: 11 minutes, a reading that needs no audio, reading level grade 5, a STEM lesson.
+L-171 Multiplying fractions by whole numbers | teaches | Multiplying fractions | Lesson L-171, "Multiplying fractions by whole numbers", teaches multiplying fractions: 16 minutes, a video that requires audio, reading level grade 5, a STEM lesson.
+F-207 Multiplying fractions flashcards | aligned_to | Multiplying fractions | Flashcard deck F-207, "Multiplying fractions flashcards", has 14 cards on multiplying fractions and needs no audio.
+Dividing fractions | is_a | Mathematics | Dividing fractions is a mathematics concept taught in grade 6.
+Dividing fractions | aligned_to | 6.NS.A.1 | Dividing fractions is aligned to 6.NS.A.1: divide fractions by fractions and interpret the quotient.
+Multiplying fractions | prerequisite_of | Dividing fractions | Multiplying fractions is a prerequisite of dividing fractions: the curriculum places it first.
+L-180 How many halves in three? Dividing fractions | teaches | Dividing fractions | Lesson L-180, "How many halves in three? Dividing fractions", teaches dividing fractions: 14 minutes, a video that requires audio, reading level grade 5, a STEM lesson.
+L-181 Dividing by a fraction as multiplying by its flip | teaches | Dividing fractions | Lesson L-181, "Dividing by a fraction as multiplying by its flip", teaches dividing fractions: 10 minutes, an interactive practice that needs no audio, reading level grade 5, a STEM lesson.
+F-208 Dividing fractions flashcards | aligned_to | Dividing fractions | Flashcard deck F-208, "Dividing fractions flashcards", has 16 cards on dividing fractions and needs no audio.
+Decimals | is_a | Mathematics | Decimals is a mathematics concept taught in grade 5.
+Decimals | aligned_to | 5.NBT.A.3 | Decimals is aligned to 5.NBT.A.3: read, write and compare decimals.
+Place value | prerequisite_of | Decimals | Place value is a prerequisite of decimals: the curriculum places it first.
+Fractions as parts | prerequisite_of | Decimals | Fractions as parts is a prerequisite of decimals: the curriculum places it first.
+L-190 Tenths and hundredths: decimals as fractions | teaches | Decimals | Lesson L-190, "Tenths and hundredths: decimals as fractions", teaches decimals: 8 minutes, an interactive practice that needs no audio, reading level grade 4, a STEM lesson.
+L-191 Comparing and ordering decimals | teaches | Decimals | Lesson L-191, "Comparing and ordering decimals", teaches decimals: 13 minutes, a reading that needs no audio, reading level grade 4, a STEM lesson.
+F-209 Decimals flashcards | aligned_to | Decimals | Flashcard deck F-209, "Decimals flashcards", has 18 cards on decimals and needs no audio.
+Ratios | is_a | Mathematics | Ratios is a mathematics concept taught in grade 6.
+Ratios | aligned_to | 6.RP.A.1 | Ratios is aligned to 6.RP.A.1: use ratio language to describe how two quantities relate.
+Equivalent fractions | prerequisite_of | Ratios | Equivalent fractions is a prerequisite of ratios: the curriculum places it first.
+L-200 Ratio language: for every, per, to | teaches | Ratios | Lesson L-200, "Ratio language: for every, per, to", teaches ratios: 11 minutes, a reading that needs no audio, reading level grade 5, a STEM lesson.
+L-201 Part-to-part and part-to-whole ratios | teaches | Ratios | Lesson L-201, "Part-to-part and part-to-whole ratios", teaches ratios: 16 minutes, a video that requires audio, reading level grade 5, a STEM lesson.
+F-210 Ratios flashcards | aligned_to | Ratios | Flashcard deck F-210, "Ratios flashcards", has 10 cards on ratios and needs no audio.
+Ratio tables | is_a | Mathematics | Ratio tables is a mathematics concept taught in grade 6.
+Ratio tables | aligned_to | 6.RP.A.3 | Ratio tables is aligned to 6.RP.A.3: solve ratio and rate problems with tables, unit rates, percent and unit conversion.
+Ratios | prerequisite_of | Ratio tables | Ratios is a prerequisite of ratio tables: the curriculum places it first.
+Multiplication facts | prerequisite_of | Ratio tables | Multiplication facts is a prerequisite of ratio tables: the curriculum places it first.
+L-210 Building a ratio table | teaches | Ratio tables | Lesson L-210, "Building a ratio table", teaches ratio tables: 14 minutes, a video that requires audio, reading level grade 5, a STEM lesson.
+L-211 Scaling a recipe with a ratio table | teaches | Ratio tables | Lesson L-211, "Scaling a recipe with a ratio table", teaches ratio tables: 10 minutes, an interactive practice that needs no audio, reading level grade 5, a STEM lesson.
+F-211 Ratio tables flashcards | aligned_to | Ratio tables | Flashcard deck F-211, "Ratio tables flashcards", has 12 cards on ratio tables and needs no audio.
+Unit rates | is_a | Mathematics | Unit rates is a mathematics concept taught in grade 6.
+Unit rates | aligned_to | 6.RP.A.2 | Unit rates is aligned to 6.RP.A.2: understand a unit rate and use rate language.
+Ratio tables | prerequisite_of | Unit rates | Ratio tables is a prerequisite of unit rates: the curriculum places it first.
+Division as sharing | prerequisite_of | Unit rates | Division as sharing is a prerequisite of unit rates: the curriculum places it first.
+L-220 Unit rates from a ratio table | teaches | Unit rates | Lesson L-220, "Unit rates from a ratio table", teaches unit rates: 8 minutes, an interactive practice that needs no audio, reading level grade 5, a STEM lesson.
+L-221 Unit price at the grocery | teaches | Unit rates | Lesson L-221, "Unit price at the grocery", teaches unit rates: 13 minutes, a reading that needs no audio, reading level grade 5, a STEM lesson.
+L-222 Unit rates in recipes | teaches | Unit rates | Lesson L-222, "Unit rates in recipes", teaches unit rates: 9 minutes, a video that requires audio, reading level grade 5, a STEM lesson.
+F-212 Unit rates flashcards | aligned_to | Unit rates | Flashcard deck F-212, "Unit rates flashcards", has 14 cards on unit rates and needs no audio.
+Percent | is_a | Mathematics | Percent is a mathematics concept taught in grade 6.
+Percent | aligned_to | 6.RP.A.3 | Percent is aligned to 6.RP.A.3: solve ratio and rate problems with tables, unit rates, percent and unit conversion.
+Ratios | prerequisite_of | Percent | Ratios is a prerequisite of percent: the curriculum places it first.
+Decimals | prerequisite_of | Percent | Decimals is a prerequisite of percent: the curriculum places it first.
+L-230 Percent as a ratio out of one hundred | teaches | Percent | Lesson L-230, "Percent as a ratio out of one hundred", teaches percent: 11 minutes, a reading that needs no audio, reading level grade 5, a STEM lesson.
+L-231 Percent of a quantity | teaches | Percent | Lesson L-231, "Percent of a quantity", teaches percent: 16 minutes, a video that requires audio, reading level grade 5, a STEM lesson.
+F-213 Percent flashcards | aligned_to | Percent | Flashcard deck F-213, "Percent flashcards", has 16 cards on percent and needs no audio.
+Proportional relationships | is_a | Mathematics | Proportional relationships is a mathematics concept taught in grade 7.
+Proportional relationships | aligned_to | 7.RP.A.2 | Proportional relationships is aligned to 7.RP.A.2: recognize and represent proportional relationships between quantities.
+Unit rates | prerequisite_of | Proportional relationships | Unit rates is a prerequisite of proportional relationships: the curriculum places it first.
+Ratio tables | prerequisite_of | Proportional relationships | Ratio tables is a prerequisite of proportional relationships: the curriculum places it first.
+L-240 Proportional or not? Testing a relationship | teaches | Proportional relationships | Lesson L-240, "Proportional or not? Testing a relationship", teaches proportional relationships: 14 minutes, a video that requires audio, reading level grade 6, a STEM lesson.
+L-241 Constant of proportionality | teaches | Proportional relationships | Lesson L-241, "Constant of proportionality", teaches proportional relationships: 10 minutes, an interactive practice that needs no audio, reading level grade 6, a STEM lesson.
+F-214 Proportional relationships flashcards | aligned_to | Proportional relationships | Flashcard deck F-214, "Proportional relationships flashcards", has 18 cards on proportional relationships and needs no audio.
+Graphing proportional relationships | is_a | Mathematics | Graphing proportional relationships is a mathematics concept taught in grade 7.
+Graphing proportional relationships | aligned_to | 8.EE.B.5 | Graphing proportional relationships is aligned to 8.EE.B.5: graph proportional relationships and read the unit rate as the slope.
+Proportional relationships | prerequisite_of | Graphing proportional relationships | Proportional relationships is a prerequisite of graphing proportional relationships: the curriculum places it first.
+L-250 Graphing a proportional relationship | teaches | Graphing proportional relationships | Lesson L-250, "Graphing a proportional relationship", teaches graphing proportional relationships: 8 minutes, an interactive practice that needs no audio, reading level grade 6, a STEM lesson.
+L-251 Reading the unit rate off a graph | teaches | Graphing proportional relationships | Lesson L-251, "Reading the unit rate off a graph", teaches graphing proportional relationships: 13 minutes, a reading that needs no audio, reading level grade 6, a STEM lesson.
+F-215 Graphing proportional relationships flashcards | aligned_to | Graphing proportional relationships | Flashcard deck F-215, "Graphing proportional relationships flashcards", has 10 cards on graphing proportional relationships and needs no audio.
+Slope as a rate | is_a | Mathematics | Slope as a rate is a mathematics concept taught in grade 8.
+Slope as a rate | aligned_to | 8.EE.B.5 | Slope as a rate is aligned to 8.EE.B.5: graph proportional relationships and read the unit rate as the slope.
+Graphing proportional relationships | prerequisite_of | Slope as a rate | Graphing proportional relationships is a prerequisite of slope as a rate: the curriculum places it first.
+L-260 Slope as steepness and as a rate | teaches | Slope as a rate | Lesson L-260, "Slope as steepness and as a rate", teaches slope as a rate: 11 minutes, a reading that needs no audio, reading level grade 7, a STEM lesson.
+L-261 Rise over run | teaches | Slope as a rate | Lesson L-261, "Rise over run", teaches slope as a rate: 16 minutes, a video that requires audio, reading level grade 7, a STEM lesson.
+F-216 Slope as a rate flashcards | aligned_to | Slope as a rate | Flashcard deck F-216, "Slope as a rate flashcards", has 12 cards on slope as a rate and needs no audio.
+Linear equations | is_a | Mathematics | Linear equations is a mathematics concept taught in grade 8.
+Linear equations | aligned_to | 8.EE.C.7 | Linear equations is aligned to 8.EE.C.7: solve linear equations in one variable.
+Slope as a rate | prerequisite_of | Linear equations | Slope as a rate is a prerequisite of linear equations: the curriculum places it first.
+L-270 Writing a line from a story | teaches | Linear equations | Lesson L-270, "Writing a line from a story", teaches linear equations: 14 minutes, a video that requires audio, reading level grade 7, a STEM lesson.
+L-271 Solving linear equations | teaches | Linear equations | Lesson L-271, "Solving linear equations", teaches linear equations: 10 minutes, an interactive practice that needs no audio, reading level grade 7, a STEM lesson.
+F-217 Linear equations flashcards | aligned_to | Linear equations | Flashcard deck F-217, "Linear equations flashcards", has 14 cards on linear equations and needs no audio.
+Measuring distance and time | is_a | Physical science | Measuring distance and time is a physical science concept taught in grade 6.
+Measuring distance and time | aligned_to | 6.RP.A.3 | Measuring distance and time is aligned to 6.RP.A.3: solve ratio and rate problems with tables, unit rates, percent and unit conversion.
+Place value | prerequisite_of | Measuring distance and time | Place value is a prerequisite of measuring distance and time: the curriculum places it first.
+L-280 Measuring a distance and a time | teaches | Measuring distance and time | Lesson L-280, "Measuring a distance and a time", teaches measuring distance and time: 8 minutes, an interactive practice that needs no audio, reading level grade 5, a STEM lesson.
+L-281 Units for distance and time | teaches | Measuring distance and time | Lesson L-281, "Units for distance and time", teaches measuring distance and time: 13 minutes, a reading that needs no audio, reading level grade 5, a STEM lesson.
+F-218 Measuring distance and time flashcards | aligned_to | Measuring distance and time | Flashcard deck F-218, "Measuring distance and time flashcards", has 16 cards on measuring distance and time and needs no audio.
+Speed | is_a | Physical science | Speed is a physical science concept taught in grade 7.
+Speed | aligned_to | 6.RP.A.2 | Speed is aligned to 6.RP.A.2: understand a unit rate and use rate language.
+Unit rates | prerequisite_of | Speed | Unit rates is a prerequisite of speed: the curriculum places it first.
+Measuring distance and time | prerequisite_of | Speed | Measuring distance and time is a prerequisite of speed: the curriculum places it first.
+L-290 Speed as a rate: distance per time | teaches | Speed | Lesson L-290, "Speed as a rate: distance per time", teaches speed: 11 minutes, a reading that needs no audio, reading level grade 6, a STEM lesson.
+L-291 Speed on a ratio table | teaches | Speed | Lesson L-291, "Speed on a ratio table", teaches speed: 16 minutes, a video that requires audio, reading level grade 6, a STEM lesson.
+F-219 Speed flashcards | aligned_to | Speed | Flashcard deck F-219, "Speed flashcards", has 18 cards on speed and needs no audio.
+Velocity | is_a | Physical science | Velocity is a physical science concept taught in grade 7.
+Velocity | aligned_to | MS-PS2-2 | Velocity is aligned to MS-PS2-2: relate a change in an object's motion to the forces on it and its mass.
+Speed | prerequisite_of | Velocity | Speed is a prerequisite of velocity: the curriculum places it first.
+L-300 Speed with a direction: velocity | teaches | Velocity | Lesson L-300, "Speed with a direction: velocity", teaches velocity: 14 minutes, a video that requires audio, reading level grade 6, a STEM lesson.
+L-301 Comparing velocities | teaches | Velocity | Lesson L-301, "Comparing velocities", teaches velocity: 10 minutes, an interactive practice that needs no audio, reading level grade 6, a STEM lesson.
+F-220 Velocity flashcards | aligned_to | Velocity | Flashcard deck F-220, "Velocity flashcards", has 10 cards on velocity and needs no audio.
+Reading motion graphs | is_a | Physical science | Reading motion graphs is a physical science concept taught in grade 7.
+Reading motion graphs | aligned_to | 8.EE.B.5 | Reading motion graphs is aligned to 8.EE.B.5: graph proportional relationships and read the unit rate as the slope.
+Graphing proportional relationships | prerequisite_of | Reading motion graphs | Graphing proportional relationships is a prerequisite of reading motion graphs: the curriculum places it first.
+Speed | prerequisite_of | Reading motion graphs | Speed is a prerequisite of reading motion graphs: the curriculum places it first.
+L-310 Reading a distance-time graph | teaches | Reading motion graphs | Lesson L-310, "Reading a distance-time graph", teaches reading motion graphs: 8 minutes, an interactive practice that needs no audio, reading level grade 6, a STEM lesson.
+L-311 Steady, stopped and speeding up on a graph | teaches | Reading motion graphs | Lesson L-311, "Steady, stopped and speeding up on a graph", teaches reading motion graphs: 13 minutes, a reading that needs no audio, reading level grade 6, a STEM lesson.
+F-221 Reading motion graphs flashcards | aligned_to | Reading motion graphs | Flashcard deck F-221, "Reading motion graphs flashcards", has 12 cards on reading motion graphs and needs no audio.
+Acceleration | is_a | Physical science | Acceleration is a physical science concept taught in grade 8.
+Acceleration | aligned_to | MS-PS2-2 | Acceleration is aligned to MS-PS2-2: relate a change in an object's motion to the forces on it and its mass.
+Velocity | prerequisite_of | Acceleration | Velocity is a prerequisite of acceleration: the curriculum places it first.
+Slope as a rate | prerequisite_of | Acceleration | Slope as a rate is a prerequisite of acceleration: the curriculum places it first.
+L-320 Speeding up and slowing down: acceleration | teaches | Acceleration | Lesson L-320, "Speeding up and slowing down: acceleration", teaches acceleration: 11 minutes, a reading that needs no audio, reading level grade 7, a STEM lesson.
+L-321 Acceleration from a velocity graph | teaches | Acceleration | Lesson L-321, "Acceleration from a velocity graph", teaches acceleration: 16 minutes, a video that requires audio, reading level grade 7, a STEM lesson.
+F-222 Acceleration flashcards | aligned_to | Acceleration | Flashcard deck F-222, "Acceleration flashcards", has 14 cards on acceleration and needs no audio.
+Force and motion | is_a | Physical science | Force and motion is a physical science concept taught in grade 8.
+Force and motion | aligned_to | MS-PS2-2 | Force and motion is aligned to MS-PS2-2: relate a change in an object's motion to the forces on it and its mass.
+Acceleration | prerequisite_of | Force and motion | Acceleration is a prerequisite of force and motion: the curriculum places it first.
+Proportional relationships | prerequisite_of | Force and motion | Proportional relationships is a prerequisite of force and motion: the curriculum places it first.
+L-330 Pushes, pulls and motion | teaches | Force and motion | Lesson L-330, "Pushes, pulls and motion", teaches force and motion: 14 minutes, a video that requires audio, reading level grade 7, a STEM lesson.
+L-331 Force, mass and acceleration | teaches | Force and motion | Lesson L-331, "Force, mass and acceleration", teaches force and motion: 10 minutes, an interactive practice that needs no audio, reading level grade 7, a STEM lesson.
+F-223 Force and motion flashcards | aligned_to | Force and motion | Flashcard deck F-223, "Force and motion flashcards", has 16 cards on force and motion and needs no audio.
+Section 6A | is_a | Classroom | Section 6A is a digital classroom for grade 6 mathematics and physical science, taught by teacher T-6A.
+Section 6B | is_a | Classroom | Section 6B is a digital classroom for grade 6 mathematics and physical science, taught by teacher T-6B.
+Section 7A | is_a | Classroom | Section 7A is a digital classroom for grade 7 mathematics and physical science, taught by teacher T-7A.
+Section 7B | is_a | Classroom | Section 7B is a digital classroom for grade 7 mathematics and physical science, taught by teacher T-7B.
+Section 8A | is_a | Classroom | Section 8A is a digital classroom for grade 8 mathematics and physical science, taught by teacher T-8A.
+Item A-061 | aligned_to | Ratio tables | Item A-061, "Scale a recipe that uses 2 cups of flour for 3 cups of milk to use 6 cups of flour", is aligned to ratio tables.
+Item A-062 | aligned_to | Unit rates | Item A-062, "A store sells 3 notebooks for 6 dollars; what does one cost", is aligned to unit rates.
+Item A-081 | aligned_to | Speed | Item A-081, "A car travels 150 miles in 2.5 hours; what is its speed", is aligned to speed.
+Item A-082 | aligned_to | Reading motion graphs | Item A-082, "Describe the motion shown by a straight distance-time graph through the origin", is aligned to reading motion graphs.
+Item A-091 | aligned_to | Force and motion | Item A-091, "A 2 kilogram cart is pushed with twice the force; what happens to its acceleration", is aligned to force and motion.
+Item A-041 | aligned_to | Adding fractions | Item A-041, "Add one half and one third", is aligned to adding fractions.

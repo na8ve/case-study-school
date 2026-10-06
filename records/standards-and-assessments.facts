@@ -1,0 +1,93 @@
+# Synthetic school knowledge (standards-and-assessments.facts).
+3.OA.A.2 | is_a | Common Core standard | 3.OA.A.2 is a Common Core standard: interpret a quotient as the size of equal shares or the number of shares.
+3.OA.C.7 | is_a | Common Core standard | 3.OA.C.7 is a Common Core standard: fluently multiply and divide within one hundred.
+3.NF.A.1 | is_a | Common Core standard | 3.NF.A.1 is a Common Core standard: see a unit fraction as one part of a whole cut into equal parts.
+4.NBT.A.1 | is_a | Common Core standard | 4.NBT.A.1 is a Common Core standard: see that a digit is worth ten times the same digit one place to its right.
+4.NF.A.1 | is_a | Common Core standard | 4.NF.A.1 is a Common Core standard: explain why fractions are equivalent and generate equivalent fractions.
+4.NF.A.2 | is_a | Common Core standard | 4.NF.A.2 is a Common Core standard: compare fractions that have different numerators and denominators.
+5.NF.A.1 | is_a | Common Core standard | 5.NF.A.1 is a Common Core standard: add and subtract fractions with unlike denominators.
+5.NF.B.4 | is_a | Common Core standard | 5.NF.B.4 is a Common Core standard: multiply a fraction by a fraction or a whole number.
+5.NBT.A.3 | is_a | Common Core standard | 5.NBT.A.3 is a Common Core standard: read, write and compare decimals.
+6.NS.A.1 | is_a | Common Core standard | 6.NS.A.1 is a Common Core standard: divide fractions by fractions and interpret the quotient.
+6.RP.A.1 | is_a | Common Core standard | 6.RP.A.1 is a Common Core standard: use ratio language to describe how two quantities relate.
+6.RP.A.2 | is_a | Common Core standard | 6.RP.A.2 is a Common Core standard: understand a unit rate and use rate language.
+6.RP.A.3 | is_a | Common Core standard | 6.RP.A.3 is a Common Core standard: solve ratio and rate problems with tables, unit rates, percent and unit conversion.
+7.RP.A.2 | is_a | Common Core standard | 7.RP.A.2 is a Common Core standard: recognize and represent proportional relationships between quantities.
+8.EE.B.5 | is_a | Common Core standard | 8.EE.B.5 is a Common Core standard: graph proportional relationships and read the unit rate as the slope.
+8.EE.C.7 | is_a | Common Core standard | 8.EE.C.7 is a Common Core standard: solve linear equations in one variable.
+MS-PS2-2 | is_a | Next Generation Science Standard | MS-PS2-2 is a Next Generation Science Standard: relate a change in an object's motion to the forces on it and its mass.
+T-601 Fractions and decimals check | aligned_to | 5.NF.A.1 | Test T-601, "Fractions and decimals check", for grade 6 mathematics, is aligned to 5.NF.A.1.
+T-601 Fractions and decimals check | aligned_to | 4.NF.A.1 | Test T-601, "Fractions and decimals check", for grade 6 mathematics, is aligned to 4.NF.A.1.
+T-601 Fractions and decimals check | aligned_to | 5.NBT.A.3 | Test T-601, "Fractions and decimals check", for grade 6 mathematics, is aligned to 5.NBT.A.3.
+T-601 Fractions and decimals check | aligned_to | Adding fractions | Test T-601, "Fractions and decimals check", covers adding fractions.
+T-601 Fractions and decimals check | aligned_to | Equivalent fractions | Test T-601, "Fractions and decimals check", covers equivalent fractions.
+T-601 Fractions and decimals check | aligned_to | Decimals | Test T-601, "Fractions and decimals check", covers decimals.
+T-602 Ratios and tables unit test | aligned_to | 6.RP.A.1 | Test T-602, "Ratios and tables unit test", for grade 6 mathematics, is aligned to 6.RP.A.1.
+T-602 Ratios and tables unit test | aligned_to | 6.RP.A.3 | Test T-602, "Ratios and tables unit test", for grade 6 mathematics, is aligned to 6.RP.A.3.
+T-602 Ratios and tables unit test | aligned_to | Ratios | Test T-602, "Ratios and tables unit test", covers ratios.
+T-602 Ratios and tables unit test | aligned_to | Ratio tables | Test T-602, "Ratios and tables unit test", covers ratio tables.
+T-603 Rates and percent unit test | aligned_to | 6.RP.A.2 | Test T-603, "Rates and percent unit test", for grade 6 mathematics, is aligned to 6.RP.A.2.
+T-603 Rates and percent unit test | aligned_to | 6.RP.A.3 | Test T-603, "Rates and percent unit test", for grade 6 mathematics, is aligned to 6.RP.A.3.
+T-603 Rates and percent unit test | aligned_to | Unit rates | Test T-603, "Rates and percent unit test", covers unit rates.
+T-603 Rates and percent unit test | aligned_to | Percent | Test T-603, "Rates and percent unit test", covers percent.
+T-701 Proportional relationships unit test | aligned_to | 6.RP.A.2 | Test T-701, "Proportional relationships unit test", for grade 7 mathematics, is aligned to 6.RP.A.2.
+T-701 Proportional relationships unit test | aligned_to | 7.RP.A.2 | Test T-701, "Proportional relationships unit test", for grade 7 mathematics, is aligned to 7.RP.A.2.
+T-701 Proportional relationships unit test | aligned_to | 8.EE.B.5 | Test T-701, "Proportional relationships unit test", for grade 7 mathematics, is aligned to 8.EE.B.5.
+T-701 Proportional relationships unit test | aligned_to | Unit rates | Test T-701, "Proportional relationships unit test", covers unit rates.
+T-701 Proportional relationships unit test | aligned_to | Proportional relationships | Test T-701, "Proportional relationships unit test", covers proportional relationships.
+T-701 Proportional relationships unit test | aligned_to | Graphing proportional relationships | Test T-701, "Proportional relationships unit test", covers graphing proportional relationships.
+T-702 Speed and motion graphs test | aligned_to | 6.RP.A.2 | Test T-702, "Speed and motion graphs test", for grade 7 physical science, is aligned to 6.RP.A.2.
+T-702 Speed and motion graphs test | aligned_to | MS-PS2-2 | Test T-702, "Speed and motion graphs test", for grade 7 physical science, is aligned to MS-PS2-2.
+T-702 Speed and motion graphs test | aligned_to | 8.EE.B.5 | Test T-702, "Speed and motion graphs test", for grade 7 physical science, is aligned to 8.EE.B.5.
+T-702 Speed and motion graphs test | aligned_to | Speed | Test T-702, "Speed and motion graphs test", covers speed.
+T-702 Speed and motion graphs test | aligned_to | Velocity | Test T-702, "Speed and motion graphs test", covers velocity.
+T-702 Speed and motion graphs test | aligned_to | Reading motion graphs | Test T-702, "Speed and motion graphs test", covers reading motion graphs.
+T-703 Benchmark: ratios and rates review | aligned_to | 6.RP.A.3 | Test T-703, "Benchmark: ratios and rates review", for grade 7 mathematics, is aligned to 6.RP.A.3.
+T-703 Benchmark: ratios and rates review | aligned_to | 6.RP.A.2 | Test T-703, "Benchmark: ratios and rates review", for grade 7 mathematics, is aligned to 6.RP.A.2.
+T-703 Benchmark: ratios and rates review | aligned_to | Ratio tables | Test T-703, "Benchmark: ratios and rates review", covers ratio tables.
+T-703 Benchmark: ratios and rates review | aligned_to | Unit rates | Test T-703, "Benchmark: ratios and rates review", covers unit rates.
+T-703 Benchmark: ratios and rates review | aligned_to | Percent | Test T-703, "Benchmark: ratios and rates review", covers percent.
+T-801 Slope and linear equations unit test | aligned_to | 8.EE.B.5 | Test T-801, "Slope and linear equations unit test", for grade 8 mathematics, is aligned to 8.EE.B.5.
+T-801 Slope and linear equations unit test | aligned_to | 8.EE.C.7 | Test T-801, "Slope and linear equations unit test", for grade 8 mathematics, is aligned to 8.EE.C.7.
+T-801 Slope and linear equations unit test | aligned_to | Slope as a rate | Test T-801, "Slope and linear equations unit test", covers slope as a rate.
+T-801 Slope and linear equations unit test | aligned_to | Linear equations | Test T-801, "Slope and linear equations unit test", covers linear equations.
+T-802 Force and motion unit test | aligned_to | MS-PS2-2 | Test T-802, "Force and motion unit test", for grade 8 physical science, is aligned to MS-PS2-2.
+T-802 Force and motion unit test | aligned_to | Acceleration | Test T-802, "Force and motion unit test", covers acceleration.
+T-802 Force and motion unit test | aligned_to | Force and motion | Test T-802, "Force and motion unit test", covers force and motion.
+T-803 Benchmark: proportional reasoning | aligned_to | 7.RP.A.2 | Test T-803, "Benchmark: proportional reasoning", for grade 8 mathematics, is aligned to 7.RP.A.2.
+T-803 Benchmark: proportional reasoning | aligned_to | 6.RP.A.2 | Test T-803, "Benchmark: proportional reasoning", for grade 8 mathematics, is aligned to 6.RP.A.2.
+T-803 Benchmark: proportional reasoning | aligned_to | Proportional relationships | Test T-803, "Benchmark: proportional reasoning", covers proportional relationships.
+T-803 Benchmark: proportional reasoning | aligned_to | Unit rates | Test T-803, "Benchmark: proportional reasoning", covers unit rates.
+HW-601 Equivalent fractions practice | aligned_to | 4.NF.A.1 | Assignment HW-601, "Equivalent fractions practice", for grade 6 mathematics, is aligned to 4.NF.A.1.
+HW-601 Equivalent fractions practice | aligned_to | Equivalent fractions | Assignment HW-601, "Equivalent fractions practice", covers equivalent fractions.
+HW-602 Ratio table recipes | aligned_to | 6.RP.A.3 | Assignment HW-602, "Ratio table recipes", for grade 6 mathematics, is aligned to 6.RP.A.3.
+HW-602 Ratio table recipes | aligned_to | Ratio tables | Assignment HW-602, "Ratio table recipes", covers ratio tables.
+HW-603 Unit price scavenger hunt | aligned_to | 6.RP.A.2 | Assignment HW-603, "Unit price scavenger hunt", for grade 6 mathematics, is aligned to 6.RP.A.2.
+HW-603 Unit price scavenger hunt | aligned_to | Unit rates | Assignment HW-603, "Unit price scavenger hunt", covers unit rates.
+HW-701 Proportional or not? worksheet | aligned_to | 7.RP.A.2 | Assignment HW-701, "Proportional or not? worksheet", for grade 7 mathematics, is aligned to 7.RP.A.2.
+HW-701 Proportional or not? worksheet | aligned_to | Proportional relationships | Assignment HW-701, "Proportional or not? worksheet", covers proportional relationships.
+HW-702 Speed lab: walking pace | aligned_to | 6.RP.A.2 | Assignment HW-702, "Speed lab: walking pace", for grade 7 physical science, is aligned to 6.RP.A.2.
+HW-702 Speed lab: walking pace | aligned_to | 6.RP.A.3 | Assignment HW-702, "Speed lab: walking pace", for grade 7 physical science, is aligned to 6.RP.A.3.
+HW-702 Speed lab: walking pace | aligned_to | Speed | Assignment HW-702, "Speed lab: walking pace", covers speed.
+HW-702 Speed lab: walking pace | aligned_to | Measuring distance and time | Assignment HW-702, "Speed lab: walking pace", covers measuring distance and time.
+HW-703 Graphing proportional relationships | aligned_to | 8.EE.B.5 | Assignment HW-703, "Graphing proportional relationships", for grade 7 mathematics, is aligned to 8.EE.B.5.
+HW-703 Graphing proportional relationships | aligned_to | Graphing proportional relationships | Assignment HW-703, "Graphing proportional relationships", covers graphing proportional relationships.
+HW-801 Slope stair-steps | aligned_to | 8.EE.B.5 | Assignment HW-801, "Slope stair-steps", for grade 8 mathematics, is aligned to 8.EE.B.5.
+HW-801 Slope stair-steps | aligned_to | Slope as a rate | Assignment HW-801, "Slope stair-steps", covers slope as a rate.
+HW-802 Cart and ramp lab | aligned_to | MS-PS2-2 | Assignment HW-802, "Cart and ramp lab", for grade 8 physical science, is aligned to MS-PS2-2.
+HW-802 Cart and ramp lab | aligned_to | Acceleration | Assignment HW-802, "Cart and ramp lab", covers acceleration.
+HW-802 Cart and ramp lab | aligned_to | Force and motion | Assignment HW-802, "Cart and ramp lab", covers force and motion.
+HW-803 Linear story problems | aligned_to | 8.EE.C.7 | Assignment HW-803, "Linear story problems", for grade 8 mathematics, is aligned to 8.EE.C.7.
+HW-803 Linear story problems | aligned_to | Linear equations | Assignment HW-803, "Linear story problems", covers linear equations.
+Q-61 Ratio table check | aligned_to | 6.RP.A.3 | Interactive quiz Q-61, "Ratio table check", for grade 6 mathematics, is aligned to 6.RP.A.3.
+Q-61 Ratio table check | aligned_to | Ratio tables | Interactive quiz Q-61, "Ratio table check", covers ratio tables.
+Q-62 Unit price check | aligned_to | 6.RP.A.2 | Interactive quiz Q-62, "Unit price check", for grade 6 mathematics, is aligned to 6.RP.A.2.
+Q-62 Unit price check | aligned_to | Unit rates | Interactive quiz Q-62, "Unit price check", covers unit rates.
+Q-71 Proportional or not check | aligned_to | 7.RP.A.2 | Interactive quiz Q-71, "Proportional or not check", for grade 7 mathematics, is aligned to 7.RP.A.2.
+Q-71 Proportional or not check | aligned_to | Proportional relationships | Interactive quiz Q-71, "Proportional or not check", covers proportional relationships.
+Q-72 Speed check | aligned_to | 6.RP.A.2 | Interactive quiz Q-72, "Speed check", for grade 7 physical science, is aligned to 6.RP.A.2.
+Q-72 Speed check | aligned_to | Speed | Interactive quiz Q-72, "Speed check", covers speed.
+Q-81 Slope check | aligned_to | 8.EE.B.5 | Interactive quiz Q-81, "Slope check", for grade 8 mathematics, is aligned to 8.EE.B.5.
+Q-81 Slope check | aligned_to | Slope as a rate | Interactive quiz Q-81, "Slope check", covers slope as a rate.
+Q-82 Force and motion check | aligned_to | MS-PS2-2 | Interactive quiz Q-82, "Force and motion check", for grade 8 physical science, is aligned to MS-PS2-2.
+Q-82 Force and motion check | aligned_to | Force and motion | Interactive quiz Q-82, "Force and motion check", covers force and motion.

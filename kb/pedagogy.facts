@@ -1,0 +1,101 @@
+# Synthetic school knowledge (pedagogy.facts).
+Place value | prerequisite_of | Multiplication facts | A student needs place value before multiplication facts.
+Multiplication facts | prerequisite_of | Division as sharing | A student needs multiplication facts before division as sharing.
+Division as sharing | prerequisite_of | Fractions as parts | A student needs division as sharing before fractions as parts.
+Fractions as parts | prerequisite_of | Equivalent fractions | A student needs fractions as parts before equivalent fractions.
+Multiplication facts | prerequisite_of | Equivalent fractions | A student needs multiplication facts before equivalent fractions.
+Equivalent fractions | prerequisite_of | Comparing fractions | A student needs equivalent fractions before comparing fractions.
+Equivalent fractions | prerequisite_of | Adding fractions | A student needs equivalent fractions before adding fractions.
+Fractions as parts | prerequisite_of | Multiplying fractions | A student needs fractions as parts before multiplying fractions.
+Multiplication facts | prerequisite_of | Multiplying fractions | A student needs multiplication facts before multiplying fractions.
+Multiplying fractions | prerequisite_of | Dividing fractions | A student needs multiplying fractions before dividing fractions.
+Place value | prerequisite_of | Decimals | A student needs place value before decimals.
+Fractions as parts | prerequisite_of | Decimals | A student needs fractions as parts before decimals.
+Equivalent fractions | prerequisite_of | Ratios | A student needs equivalent fractions before ratios.
+Ratios | prerequisite_of | Ratio tables | A student needs ratios before ratio tables.
+Multiplication facts | prerequisite_of | Ratio tables | A student needs multiplication facts before ratio tables.
+Ratio tables | prerequisite_of | Unit rates | A student needs ratio tables before unit rates.
+Division as sharing | prerequisite_of | Unit rates | A student needs division as sharing before unit rates.
+Ratios | prerequisite_of | Percent | A student needs ratios before percent.
+Decimals | prerequisite_of | Percent | A student needs decimals before percent.
+Unit rates | prerequisite_of | Proportional relationships | A student needs unit rates before proportional relationships.
+Ratio tables | prerequisite_of | Proportional relationships | A student needs ratio tables before proportional relationships.
+Proportional relationships | prerequisite_of | Graphing proportional relationships | A student needs proportional relationships before graphing proportional relationships.
+Graphing proportional relationships | prerequisite_of | Slope as a rate | A student needs graphing proportional relationships before slope as a rate.
+Slope as a rate | prerequisite_of | Linear equations | A student needs slope as a rate before linear equations.
+Place value | prerequisite_of | Measuring distance and time | A student needs place value before measuring distance and time.
+Unit rates | prerequisite_of | Speed | A student needs unit rates before speed.
+Measuring distance and time | prerequisite_of | Speed | A student needs measuring distance and time before speed.
+Speed | prerequisite_of | Velocity | A student needs speed before velocity.
+Graphing proportional relationships | prerequisite_of | Reading motion graphs | A student needs graphing proportional relationships before reading motion graphs.
+Speed | prerequisite_of | Reading motion graphs | A student needs speed before reading motion graphs.
+Velocity | prerequisite_of | Acceleration | A student needs velocity before acceleration.
+Slope as a rate | prerequisite_of | Acceleration | A student needs slope as a rate before acceleration.
+Acceleration | prerequisite_of | Force and motion | A student needs acceleration before force and motion.
+Proportional relationships | prerequisite_of | Force and motion | A student needs proportional relationships before force and motion.
+Learns best with audio | is_a | Learner trait | Learns best with audio is a learner trait: a student who has it retains more from video and read-aloud lessons than from text.
+Learns best with visuals | is_a | Learner trait | Learns best with visuals is a learner trait: a student who has it does better with diagrams, tables and number lines than with words.
+Short focus window | is_a | Learner trait | Short focus window is a learner trait: a student who has it loses accuracy after a short stretch of work.
+Slows on word problems | is_a | Learner trait | Slows on word problems is a learner trait: a student who has it takes much longer on word problems than on the same mathematics set out as numbers.
+Slows on word problems | suggests | Reading load | A student who takes much longer on word problems than on the same mathematics set out as numbers may be showing reading load.
+No audio at school | is_a | Learner trait | No audio at school is a learner trait: a student who has it has no headphones at school, so a lesson that requires audio cannot be used in class.
+Additive reasoning | is_a | Misconception | Additive reasoning is a misconception: treating a multiplicative relationship as an additive one: scaling 2 to 3 up to 4 to 5 by adding 2 to both parts.
+Additive reasoning | blocks | Adding fractions | Additive reasoning blocks adding fractions: a student who holds it cannot make the step adding fractions asks for.
+Additive reasoning | blocks | Ratio tables | Additive reasoning blocks ratio tables: a student who holds it cannot make the step ratio tables asks for.
+Additive reasoning | blocks | Unit rates | Additive reasoning blocks unit rates: a student who holds it cannot make the step unit rates asks for.
+Additive reasoning | blocks | Proportional relationships | Additive reasoning blocks proportional relationships: a student who holds it cannot make the step proportional relationships asks for.
+Additive reasoning | blocks | Speed | Additive reasoning blocks speed: a student who holds it cannot make the step speed asks for.
+Additive reasoning | remedied_by | Double number line | Additive reasoning is remedied by the double number line: draw two number lines side by side and scale both by the same factor, so that a ratio is seen to grow by multiplying and not by adding.
+Adding across fractions | is_a | Misconception | Adding across fractions is a misconception: adding the numerators and the denominators separately, so one half plus one third becomes two fifths.
+Adding across fractions | blocks | Adding fractions | Adding across fractions blocks adding fractions: a student who holds it cannot make the step adding fractions asks for.
+Adding across fractions | remedied_by | Fraction strips | Adding across fractions is remedied by the fraction strips: line up strips cut into equal parts, so that size is seen directly and the pieces of unlike denominators can be compared and combined.
+Denominator size confusion | is_a | Misconception | Denominator size confusion is a misconception: reading a larger denominator as a larger fraction.
+Denominator size confusion | blocks | Comparing fractions | Denominator size confusion blocks comparing fractions: a student who holds it cannot make the step comparing fractions asks for.
+Denominator size confusion | blocks | Equivalent fractions | Denominator size confusion blocks equivalent fractions: a student who holds it cannot make the step equivalent fractions asks for.
+Denominator size confusion | remedied_by | Fraction strips | Denominator size confusion is remedied by the fraction strips: line up strips cut into equal parts, so that size is seen directly and the pieces of unlike denominators can be compared and combined.
+Inverted rate | is_a | Misconception | Inverted rate is a misconception: dividing a rate the wrong way round, so speed comes out as time per distance.
+Inverted rate | blocks | Unit rates | Inverted rate blocks unit rates: a student who holds it cannot make the step unit rates asks for.
+Inverted rate | blocks | Speed | Inverted rate blocks speed: a student who holds it cannot make the step speed asks for.
+Inverted rate | remedied_by | Units check | Inverted rate is remedied by the units check: carry the units through the division and ask what the answer is per what.
+Speed and distance confusion | is_a | Misconception | Speed and distance confusion is a misconception: treating speed and distance as the same quantity, so steady speed is thought to grow with time.
+Speed and distance confusion | blocks | Speed | Speed and distance confusion blocks speed: a student who holds it cannot make the step speed asks for.
+Speed and distance confusion | blocks | Reading motion graphs | Speed and distance confusion blocks reading motion graphs: a student who holds it cannot make the step reading motion graphs asks for.
+Speed and distance confusion | remedied_by | Distance-time walk | Speed and distance confusion is remedied by the distance-time walk: have the student walk a steady pace while a partner records distance every few seconds, so that the distance grows and the speed does not.
+Motion needs force belief | is_a | Misconception | Motion needs force belief is a misconception: believing a moving object needs a continuing force to keep moving.
+Motion needs force belief | blocks | Acceleration | Motion needs force belief blocks acceleration: a student who holds it cannot make the step acceleration asks for.
+Motion needs force belief | blocks | Force and motion | Motion needs force belief blocks force and motion: a student who holds it cannot make the step force and motion asks for.
+Motion needs force belief | remedied_by | Low-friction cart | Motion needs force belief is remedied by the low-friction cart: push a cart on a low-friction track once and watch it keep going without a continuing push.
+Slope as height | is_a | Misconception | Slope as height is a misconception: reading the height of a line as its slope.
+Slope as height | blocks | Slope as a rate | Slope as height blocks slope as a rate: a student who holds it cannot make the step slope as a rate asks for.
+Slope as height | remedied_by | Stair-step slope | Slope as height is remedied by the stair-step slope: walk a line as stairs, counting the rise for each step of run.
+Decimal length confusion | is_a | Misconception | Decimal length confusion is a misconception: reading a decimal with more digits as the larger number.
+Decimal length confusion | blocks | Decimals | Decimal length confusion blocks decimals: a student who holds it cannot make the step decimals asks for.
+Decimal length confusion | remedied_by | Place-value chart | Decimal length confusion is remedied by the place-value chart: write each decimal in a place-value chart so that tenths line up with tenths.
+Careless slip | is_a | Non-conceptual cause | Careless slip is a non-conceptual cause of errors: an arithmetic or copying slip in a student who holds the idea.
+Careless slip | remedied_by | Check-your-work routine | Careless slip is remedied by the check-your-work routine: estimate first, work the problem, then compare the result with the estimate.
+Reading load | is_a | Non-conceptual cause | Reading load is a non-conceptual cause of errors: a word problem whose reading is harder than its mathematics.
+Reading load | remedied_by | Read-aloud support | Reading load is remedied by the read-aloud support: have the problem read aloud and restated in the student's own words before any working.
+Ratio scaled by adding | suggests | Additive reasoning | A student who scaled a ratio by adding the same amount to both parts may be showing additive reasoning.
+Ratio scaled by adding | suggests | Careless slip | A student who scaled a ratio by adding the same amount to both parts may be showing careless slip.
+Fractions added across | suggests | Adding across fractions | A student who wrote 2/5 for 1/2 plus 1/3 may be showing adding across fractions.
+Fractions added across | suggests | Additive reasoning | A student who wrote 2/5 for 1/2 plus 1/3 may be showing additive reasoning.
+Fractions added across | suggests | Careless slip | A student who wrote 2/5 for 1/2 plus 1/3 may be showing careless slip.
+Speed as steady increase | suggests | Speed and distance confusion | A student who said a car at steady speed goes up by the same amount every hour may be showing speed and distance confusion.
+Speed as steady increase | suggests | Additive reasoning | A student who said a car at steady speed goes up by the same amount every hour may be showing additive reasoning.
+Larger denominator chosen as larger | suggests | Denominator size confusion | A student who picked 1/8 as larger than 1/4 may be showing denominator size confusion.
+Larger denominator chosen as larger | suggests | Reading load | A student who picked 1/8 as larger than 1/4 may be showing reading load.
+Rate divided the wrong way | suggests | Inverted rate | A student who divided the time by the distance to find a speed may be showing inverted rate.
+Rate divided the wrong way | suggests | Careless slip | A student who divided the time by the distance to find a speed may be showing careless slip.
+Push needed to keep moving | suggests | Motion needs force belief | A student who said a puck sliding on ice needs a push to keep going may be showing motion needs force belief.
+Push needed to keep moving | suggests | Speed and distance confusion | A student who said a puck sliding on ice needs a push to keep going may be showing speed and distance confusion.
+Slope read as height | suggests | Slope as height | A student who called the height of a line its slope may be showing slope as height.
+Slope read as height | suggests | Careless slip | A student who called the height of a line its slope may be showing careless slip.
+Longer decimal chosen as larger | suggests | Decimal length confusion | A student who said 0.45 is larger than 0.5 because it has more digits may be showing decimal length confusion.
+Longer decimal chosen as larger | suggests | Denominator size confusion | A student who said 0.45 is larger than 0.5 because it has more digits may be showing denominator size confusion.
+Fractions added across the bottom | suggests | Adding across fractions | A student who added 1/4 and 1/4 and got 2/8 may be showing adding across fractions.
+Fractions added across the bottom | suggests | Careless slip | A student who added 1/4 and 1/4 and got 2/8 may be showing careless slip.
+Unit left out | suggests | Inverted rate | A student who left the unit out of a final answer may be showing inverted rate.
+Unit left out | suggests | Careless slip | A student who left the unit out of a final answer may be showing careless slip.
+Unit left out | suggests | Reading load | A student who left the unit out of a final answer may be showing reading load.
+Key word missed | suggests | Reading load | A student who missed a key word in a word problem may be showing reading load.
+Key word missed | suggests | Careless slip | A student who missed a key word in a word problem may be showing careless slip.

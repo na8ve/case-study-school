@@ -1,0 +1,14 @@
+{
+	"name": "riverbend-middle-school",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+	"description": "A middle school's course map, records and notes, as facts. Synthetic: no real student, teacher or school.",
+	"scripts": {
+		"test": "node --test \"test/*.test.mjs\"",
+		"map": "node tools/dependency-map.mjs"
+	},
+	"engines": {
+		"node": ">=22"
+	}
+}
